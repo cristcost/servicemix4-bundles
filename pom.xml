@@ -30,7 +30,7 @@
 
     <groupId>org.apache.servicemix.bundles</groupId>
     <artifactId>org.apache.servicemix.bundles.spring-ldap</artifactId>
-    <version>1.3.2.RELEASE_2</version>
+    <version>1.3.2.RELEASE_3-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>Apache ServiceMix :: Bundles :: spring-ldap</name>
     <description>This OSGi bundle wraps spring-ldap-core, spring-ldap-core-tiger, spring-ldap-odm, spring-ldap-ldif-core, spring-ldap-ldif-batch ${pkgVersion} jar files.</description>
